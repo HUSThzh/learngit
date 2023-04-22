@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Git trackss changes of files.
 
 add merge
+using stash
